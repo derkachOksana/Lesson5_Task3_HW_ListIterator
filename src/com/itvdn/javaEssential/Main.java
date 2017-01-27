@@ -21,6 +21,6 @@ public class Main {
             System.out.println(integer);
 
         }
-       // System.out.println(array);
+        System.out.println(array);
     }
 }
